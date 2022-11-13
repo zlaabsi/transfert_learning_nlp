@@ -4,6 +4,7 @@
 
 In this project, you will use pre-trained models from TensorFlow Hub with [`tf.keras`](https://www.tensorflow.org/api_docs/python/tf/keras) for text classification. Transfer learning makes it possible to save training resources and to achieve good model generalization even when training on a small dataset. In this project, we will demonstrate this by training with several different TF-Hub modules.
 
+![gif](https://github.com/zlaabsi/transfert_learning_nlp/blob/main/transfer-learning-nlp-tf-hubipynb.gif)
 
 
 Our text data consits of questions and corresponding labels.
